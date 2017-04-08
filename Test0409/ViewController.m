@@ -1,10 +1,3 @@
-//
-//  ViewController.m
-//  Test0409
-//
-//  Created by ndb on 17/4/9.
-//  Copyright © 2017年 ndb. All rights reserved.
-//
 
 #import "ViewController.h"
 
